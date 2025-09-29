@@ -1,4 +1,4 @@
-# RealFilms (antes KarenFlix) -  Gestor de Portafolio de Proyectos Freelance
+# RealFilms  -  Gestor de Portafolio de Proyectos Freelance
 
 
 <div align="center">
