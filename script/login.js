@@ -3,7 +3,7 @@ const loginBtn = document.querySelector(".BotonIniciar");
 const emailInput = document.querySelector(".User");
 const passwordInput = document.querySelector(".Password");
 
-const API_URL = "http://62.169.28.169/auth/login";
+const API_URL = "/auth/login";
 
 loginBtn.addEventListener("click", async (e) => {
   e.preventDefault();

@@ -1,7 +1,7 @@
-const URL_PEL = 'http://62.169.28.169/movies/all-pel'
-const URL_MPOP = 'http://62.169.28.169/movies/pel-pop'
-const URL_SEARCH = 'http://62.169.28.169/movies/search/'
-const URL_Pid = 'http://62.169.28.169/resenas/listbymovie/'
+const URL_PEL = '/movies/all-pel'
+const URL_MPOP = '/movies/pel-pop'
+const URL_SEARCH = '/movies/search/'
+const URL_Pid = '/resenas/listbymovie/'
 
 const slides = document.querySelector(".slides");
 const dots = document.querySelectorAll(".dot");
