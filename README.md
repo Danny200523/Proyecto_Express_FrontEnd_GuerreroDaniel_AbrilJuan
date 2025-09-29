@@ -90,19 +90,6 @@ El objetivo de este proyecto es desarrollar una aplicación **full-stack** usand
 https://github.com/Danny200523/Proyecto_Express_BackEnd_GuerreroDaniel_AbrilJuan.git
 
 
-# Endpoints principales
-Usuarios
-POST /api/v1/auth/register → Registrar usuario
-POST /api/v1/auth/login → Iniciar sesión
-GET /api/v1/usuarios → Listar usuarios (admin)
-Películas
-POST /api/v1/peliculas → Crear película (admin)
-GET /api/v1/peliculas → Listar todas las películas
-GET /api/v1/peliculas/:id → Ver detalle de una película
-Reseñas
-POST /api/v1/reseñas → Crear reseña
-
-
 ##  Endpoints Principales
 Autenticación
 
