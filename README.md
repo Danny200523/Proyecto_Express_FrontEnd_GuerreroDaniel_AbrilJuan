@@ -6,7 +6,7 @@
 </div>
 
 ---
-<div align="center">
+
 ## Introducción  
 
 **RealFilms** (nombre inicial *KarenFlix*) es una aplicación **full-stack** que permite a los usuarios:  
